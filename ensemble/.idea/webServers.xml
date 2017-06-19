@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ssh://jiaqinglin@www.jydx.space:10099/home/jiaqinglin/anaconda2/bin/python" name="10099">
+        <fileTransfer host="www.jydx.space" port="10099" rootFolder="/home/jiaqinglin" accessType="SFTP">
+          <option name="port" value="10099" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
